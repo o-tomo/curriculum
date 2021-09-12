@@ -24,7 +24,7 @@ public class Task1_2 {
         int[] intArray = { 10, 20, 30, 40, 50 };
         // 10、20、30、40、50 を初期値とする、要素数 5 のintArray という名前int型配列を宣言。
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
-        // [変数 intArray の合計スコアを出力]
+        // [変数 intArray の1番目と4番目の要素の合計スコアを出力]
         System.out.println(intArray[1] + intArray[4]);
 
     }
